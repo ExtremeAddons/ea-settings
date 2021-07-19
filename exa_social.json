@@ -4,7 +4,7 @@
 			"0": {
 				"title": "Hot Title 1",
 				"url": "",
-				"News descriptions": {
+				"descriptions": {
 					"Subtitle": "Hot Description",
 					"Subtitle 2": "Hot Description 2"
 				}
@@ -12,7 +12,7 @@
 			"1": {
 				"title": "Hot Title 1",
 				"url": "",
-				"News descriptions": {
+				"descriptions": {
 					"Subtitle": "Hot Description",
 					"Subtitle 2": "Hot Description 2"
 				}
@@ -22,7 +22,7 @@
 			"0": {
 				"title": "News Title 1",
 				"url": "",
-				"News descriptions": {
+				"descriptions": {
 					"Subtitle": "News Description",
 					"Subtitle 2": "News Description 2"
 				}
@@ -30,7 +30,7 @@
 			"1": {
 				"title": "News Title 2",
 				"url": "",
-				"News descriptions": {
+				"descriptions": {
 					"Subtitle": "News Description",
 					"Subtitle 2": "News Description 2"
 				}
