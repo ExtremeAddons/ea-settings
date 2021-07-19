@@ -9,7 +9,7 @@
 			"1": {
 				"title": "Title",
 				"description": "Description",
-				"Url": "www.google.com"
+				"url": "www.google.com"
 			}
 		},
 		"news": {
@@ -21,7 +21,7 @@
 			"1": {
 				"title": "News Title 2",
 				"description": "News Description 2",
-				"": ""
+				"url": "url"
 			}
 		}
 	},
