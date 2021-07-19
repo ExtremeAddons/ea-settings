@@ -6,20 +6,20 @@
 				"url": "",
 				"descriptions": {
 					"1": {
-						"subtitle": "Fixed version update check",
-						"description": "Desc for changes"
+						"subtitle": "Hot subtitle",
+						"description": "description"
 					},
 					"2": {
 						"subtitle": false,
-						"description": "Desc for changes"
+						"description": "description"
 					}
 				}
 			}
 		},
 		"news": {
 			"0": {
-				"title": "Hot Title 1",
-				"url": "",
+				"title": "News Title",
+				"url": "https://extreme-addons.com/prodotto/test-prod/",
 				"descriptions": {
 					"1": {
 						"subtitle": "Fixed version update check",
