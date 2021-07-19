@@ -6,11 +6,11 @@
 				"url": "",
 				"descriptions": {
 					"1": {
-						"title": "Fixed version update check",
+						"subtitle": "Fixed version update check",
 						"description": "Desc for changes"
 					},
 					"2": {
-						"title": false,
+						"subtitle": false,
 						"description": "Desc for changes"
 					}
 				}
@@ -22,11 +22,11 @@
 				"url": "",
 				"descriptions": {
 					"1": {
-						"title": "Fixed version update check",
+						"subtitle": "Fixed version update check",
 						"description": "Desc for changes"
 					},
 					"2": {
-						"title": false,
+						"subtitle": false,
 						"description": "Desc for changes"
 					}
 				}
