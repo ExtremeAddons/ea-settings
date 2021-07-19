@@ -1,16 +1,39 @@
 {
-    "hot":{"":""},
-    "post":{"":""},
-    "news":{"":""},
-    "orderpages": {
-        "BlenderMarket": "https://blendermarket.com/account/orders",
-        "GumRoad": "https://gumroad.com/library"
-    },
-    "social_links": {
-        "youtube": "https://www.youtube.com/channel/UCe5vB8ehr9hrQrYvfCb8j9w",
-        "instagram": "https://www.instagram.com/andrew_dx3/",
-        "twitter": "https://twitter.com/AndrewD80747502",
-        "extreme-addons": "http://extreme-addons.com/",
-        "facebook": "https://www.facebook.com/andrew3dart/"
-    }
+	"exa_post": {
+		"hot_links": {
+			"0": {
+				"Title": "Title",
+				"Description": "Description",
+				"Url": "www.google.com"
+			},
+			"1": {
+				"Title": "Title",
+				"Description": "Description",
+				"Url": "www.google.com"
+			}
+		},
+		"news": {
+			"0": {
+				"Title": "News Title",
+				"Description": "News Description",
+				"url": "www.extreme-addons.com"
+			},
+			"1": {
+				"Title": "News Title 2",
+				"Description": "News Description 2",
+				"": ""
+			}
+		}
+	},
+	"orderpages": {
+		"BlenderMarket": "https://blendermarket.com/account/orders",
+		"GumRoad": "https://gumroad.com/library"
+	},
+	"social_links": {
+		"youtube": "https://www.youtube.com/channel/UCe5vB8ehr9hrQrYvfCb8j9w",
+		"instagram": "https://www.instagram.com/andrew_dx3/",
+		"twitter": "https://twitter.com/AndrewD80747502",
+		"extreme-addons": "http://extreme-addons.com/",
+		"facebook": "https://www.facebook.com/andrew3dart/"
+	}
 }
