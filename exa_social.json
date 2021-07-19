@@ -1,26 +1,26 @@
 {
 	"exa_post": {
-		"hot": {
+		"hot_links": {
 			"0": {
-				"Title": "Title",
-				"Description": "Description",
-				"Url": "www.google.com"
+				"title": "Title",
+				"description": "Description",
+				"url": "www.google.com"
 			},
 			"1": {
-				"Title": "Title",
-				"Description": "Description",
+				"title": "Title",
+				"description": "Description",
 				"Url": "www.google.com"
 			}
 		},
 		"news": {
 			"0": {
-				"Title": "News Title",
-				"Description": "News Description",
+				"title": "News Title",
+				"description": "News Description",
 				"url": "www.extreme-addons.com"
 			},
 			"1": {
-				"Title": "News Title 2",
-				"Description": "News Description 2",
+				"title": "News Title 2",
+				"description": "News Description 2",
 				"": ""
 			}
 		}
