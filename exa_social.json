@@ -1,47 +1,9 @@
 {
-	"exa_post": {
-		"hot": {
-			"0": {
-				"title": "Hot Title 1",
-				"url": "",
-				"descriptions": {
-					"1": {
-						"subtitle": "Hot subtitle",
-						"description": "description"
-					},
-					"2": {
-						"subtitle": false,
-						"description": "description"
-					}
-				}
-			}
-		},
-		"news": {
-			"0": {
-				"title": "News Title",
-				"url": "https://extreme-addons.com/prodotto/test-prod/",
-				"descriptions": {
-					"1": {
-						"subtitle": "Fixed version update check",
-						"description": "Desc for changes"
-					},
-					"2": {
-						"subtitle": false,
-						"description": "Desc for changes"
-					}
-				}
-			}
-		}
-	},
-	"orderpages": {
-		"BlenderMarket": "https://blendermarket.com/account/orders",
-		"GumRoad": "https://gumroad.com/library"
-	},
 	"social": {
-		"youtube": "https://www.youtube.com/channel/UCe5vB8ehr9hrQrYvfCb8j9w",
-		"instagram": "https://www.instagram.com/andrew_dx3/",
-		"twitter": "https://twitter.com/AndrewD80747502",
-		"extreme-addons": "http://extreme-addons.com/",
-		"facebook": "https://www.facebook.com/andrew3dart/"
+		"youtube": "https:\/\/www.youtube.com\/channel\/UCe5vB8ehr9hrQrYvfCb8j9w",
+		"instagram": "https:\/\/www.instagram.com\/andrew_dx3",
+		"twitter": "https:\/\/twitter.com\/AndrewD80747502",
+		"extreme-addons": "http:\/\/extreme-addons.com\/",
+		"facebook": "https:\/\/www.facebook.com\/andrew3dart\/"
 	}
 }
