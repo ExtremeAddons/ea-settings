@@ -1,6 +1,6 @@
-ivemarket{
-	"orderpages": {
-		"blenderMarket": "https:\/\/superhivemarket.com\/account\/orders",
-		"gumroad": "https:\/\/gumroad.com\/library"
+{
+    "orderpages": {
+		   "blenderMarket": "https:\/\/superhivemarket.com\/account\/orders",
+		   "gumroad": "https:\/\/gumroad.com\/library"
 	}
 }
